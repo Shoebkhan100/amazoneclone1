@@ -1,0 +1,86 @@
+.header{
+    
+    
+    ;
+    height: 100%;
+    width: 100%;
+
+}
+.centrenav button img{
+    height:10px;
+      /* LEFT NAVBAR STYLE */
+
+}
+.navbar .totalnav .leftnav{
+    display:flex ;
+    padding-left:15px ;
+    align-items: center;
+   
+}
+
+.navbar .totalnav .leftnav .logo{
+   
+    height: ;
+    width:100px ;
+    align-items: center;
+}
+ span{
+    color:white;
+
+}
+
+       /* CENTRE NAVBAR STYLE */
+.navbar .totalnav .centrenav{
+    display:flex ;
+    padding-left: 15px;
+}
+.navbar .totalnav .centrenav input{
+    width: 800px;
+    height: 30px;
+
+}
+.navbar .totalnav .centrenav select{
+    width: 50px;
+}
+.navbar .totalnav .centrenav button{
+    
+}
+
+
+       /* RIGHT NAVBAR STYLE */
+.navbar .totalnav .rightnav{
+    display:flex ;
+    padding-left: ;
+    align-items: center;
+
+    
+
+}
+header{
+    background-color: rgb(26, 24, 51);
+    
+    
+}
+body{
+   margin: 0;
+   padding: 0 ;
+   
+   background-image: url(ba.jpg);
+   background-size:cover;
+   background-repeat: no-repeat;
+   padding-top: ;
+}
+header{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+main .cards{
+    display: grid;
+    grid-template-columns: repeat(4,25%);
+    margin-left: 20px;
+    margin-top: 310px;
+
+}
